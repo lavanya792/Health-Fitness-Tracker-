@@ -1,0 +1,11 @@
+{
+    "Lavanya": {
+        "age": 19,
+        "weight": 57,
+        "height": 165,
+        "activity": "Low",
+        "bmi": 20.94,
+        "steps_goal": 7000,
+        "calorie_goal": 1800
+    }
+}
